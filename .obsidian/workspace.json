@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "795bd1e0e33b1a16",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe94e37b7f15108f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c2861df2a5cc8b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Complete C# Unity 3D Game Development in Unity 6/5. Royal Run/5.2 Project Setup & Import Assets.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.2 Project Setup & Import Assets"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b9c9d98aa6823a54",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb2f8efd84b6832a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7485b095828964e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "35779f1fdc78ef92",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9140cf39166cbdfe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a53b224de77d77fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c6335a9300ba9e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9391090e8c2c8a07",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Complete C# Unity 3D Game Development in Unity 6/2. Obstacle Dodge/2-1 Section Intro - Obstacle Dodge.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2-1 Section Intro - Obstacle Dodge"
+            }
+          },
+          {
+            "id": "89db0844ade36a72",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Complete C# Unity 3D Game Development in Unity 6/2. Obstacle Dodge/2-1 Section Intro - Obstacle Dodge.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2-1 Section Intro - Obstacle Dodge"
+            }
+          },
+          {
+            "id": "f6881f4242acd276",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f3347cc5b1c4ac24",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Complete C# Unity 3D Game Development in Unity 6/2. Obstacle Dodge/2-1 Section Intro - Obstacle Dodge.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2-1 Section Intro - Obstacle Dodge"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2c2861df2a5cc8b7",
+  "lastOpenFiles": [
+    "Complete C# Unity 3D Game Development in Unity 6/5. Royal Run/5.1 Section Intro - Royal Run.md",
+    "Complete C# Unity 3D Game Development in Unity 6/5. Royal Run/5.2 Project Setup & Import Assets.md",
+    "Complete C# Unity 3D Game Development in Unity 6/2. Obstacle Dodge/2-1 Section Intro - Obstacle Dodge.md",
+    "Complete C# Unity 3D Game Development in Unity 6/5. Royal Run"
+  ]
+}
