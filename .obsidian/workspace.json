@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Complete C# Unity 3D Game Development in Unity 6/5. Royal Run/5.2 Project Setup & Import Assets.md",
+                "file": "Complete C# Unity 3D Game Development in Unity 6/2. Obstacle Dodge/2-3 Introducing Variables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.2 Project Setup & Import Assets"
+              "title": "2-3 Introducing Variables"
             }
           }
         ]
@@ -171,9 +171,14 @@
   },
   "active": "2c2861df2a5cc8b7",
   "lastOpenFiles": [
-    "Complete C# Unity 3D Game Development in Unity 6/5. Royal Run/5.1 Section Intro - Royal Run.md",
-    "Complete C# Unity 3D Game Development in Unity 6/5. Royal Run/5.2 Project Setup & Import Assets.md",
+    "Complete C# Unity 3D Game Development in Unity 6/2. Obstacle Dodge/2-2 Start() & Update().md",
+    "Complete C# Unity 3D Game Development in Unity 6/2. Obstacle Dodge/2-3 Introducing Variables.md",
     "Complete C# Unity 3D Game Development in Unity 6/2. Obstacle Dodge/2-1 Section Intro - Obstacle Dodge.md",
+    "Complete C# Unity 3D Game Development in Unity 6/README.md",
+    "Complete C# Unity 3D Game Development in Unity 6/2. Obstacle Dodge",
+    "README.md",
+    "Complete C# Unity 3D Game Development in Unity 6/5. Royal Run/5.2 Project Setup & Import Assets.md",
+    "Complete C# Unity 3D Game Development in Unity 6/5. Royal Run/5.1 Section Intro - Royal Run.md",
     "Complete C# Unity 3D Game Development in Unity 6/5. Royal Run"
   ]
 }

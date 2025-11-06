@@ -1,57 +1,70 @@
+## Giới thiệu Dự án Obstacle Dodge
 
-## Dự án Obstacle Dodge - Tổng quan và Mục tiêu học tập
+Bài giảng giới thiệu về dự án xây dựng game tránh chướng ngại vật (Obstacle Dodge), giúp học viên nắm vững các kiến thức nền tảng về Unity và C#.
 
-### Giới thiệu chung
-- **Tên dự án**: Obstacle Dodge
-- **Mô tả**: Một trò chơi tránh chướng ngại vật (obstacle avoidance game) đơn giản, vui nhộn, giúp người học làm quen với các khái niệm cơ bản của Unity và lập trình C#.
-- **Mục tiêu**:
-  - Nắm vững các khái niệm cơ bản của Unity và lập trình C#.
-  - Tạo trải nghiệm chơi game khiến người chơi cảm thấy hồi hộp và gấp rút (panicked and rushed).
-- **Cơ chế cốt lõi**:
-  - Người chơi di chuyển từ điểm A đến điểm B.
-  - Né tránh các chướng ngại vật trên đường đi.
+## Tổng quan về game
 
-### Thiết kế trò chơi
-- **Trải nghiệm người chơi**:
-  - Tạo cảm giác gấp rút, hồi hộp khi né tránh chướng ngại vật.
-  - Không tập trung vào việc khiến người chơi cảm thấy thông minh hay cần cẩn thận.
-- **Cơ chế gameplay**:
-  - Di chuyển người chơi (lên, xuống, trái, phải) bằng input từ người dùng.
-  - Né tránh các chướng ngại vật, bao gồm:
-    - Vật cản tĩnh (obstacles).
-    - Vật thể bắn về phía người chơi (projectiles).
-    - Vật thể xoay (spinny things).
-    - Vật thể rơi từ trên xuống (falling objects).
-- **Tính năng chính**:
-  - **Điểm số**: Tăng khi người chơi va chạm vào một số vật thể.
-  - **Hiệu ứng**: Màu sắc của vật thể thay đổi khi va chạm.
-  - **Camera**: Sử dụng Cinemachine để quản lý góc nhìn camera.
+Game thuộc thể loại né tránh chướng ngại vật với mục tiêu di chuyển từ điểm A đến điểm B. Người chơi cần điều khiển nhân vật tránh các vật thể nguy hiểm xuất hiện trên đường đi.
 
-### Mục tiêu học tập
-- **Kiến thức lập trình C#**:
-  - Biến (variables).
-  - Hàm (methods).
-  - Câu lệnh điều kiện (if statements).
-  - Xử lý va chạm (collisions).
-  - Vùng kích hoạt (trigger volumes).
-  - Xử lý input của người chơi (player input).
-- **Kiến thức Unity**:
-  - Cách hoạt động của GameObject.
-  - Tương tác với GameObject.
-  - Prefabs.
-  - Cinemachine.
-  - Tags và Components.
-  - Thứ tự thực thi (order of execution).
+## Các thành phần chính của game
 
-### Thử thách khởi động
-- **Đặt tên cho nhân vật**:
-  - Ví dụ: Nhân vật mẫu được gọi là *Dodgy* (nhằm thể hiện tính cách né tránh chướng ngại vật).
-  - Yêu cầu: Người học nghĩ ra một cái tên độc đáo cho nhân vật của mình trước khi bắt đầu bài giảng tiếp theo.
-- **Hành động**:
-  - Tạm dừng video để suy nghĩ về tên nhân vật và ý tưởng cơ bản cho trò chơi.
-  - Chuẩn bị bắt đầu xây dựng dự án trong bài giảng tiếp theo.
+- **Người chơi (Player)**: Có khả năng di chuyển lên, xuống, trái, phải thông qua input của người dùng
+    
+- **Camera**: Sử dụng Cinemachine để tạo góc nhìn động
+    
+- **Chướng ngại vật (Obstacles)**: Nhiều loại khác nhau cần tránh
+    
+- **Hệ thống điểm**: Điểm số tăng khi va chạm với vật thể
+    
+- **Hiệu ứng màu sắc**: Màu của vật thể thay đổi khi bị va chạm
+    
+- **Đạn (Projectiles)**: Được bắn về phía người chơi
+    
+- **Vật thể xoay (Spinny things)**: Các chướng ngại vật quay tròn
+    
+- **Vật thể rơi (Falling objects)**: Rơi từ trên xuống nhằm vào người chơi
+    
 
-### Ghi chú thêm
-- Dự án tập trung vào việc xây dựng các kỹ năng cơ bản, không đi sâu vào thiết kế game phức tạp.
-- Người học cần tập trung vào việc hiểu và áp dụng các khái niệm lập trình và Unity vào dự án thực tế.
-- Tạo môi trường học tập vui nhộn, khuyến khích sự sáng tạo trong việc cá nhân hóa trò chơi.
+## Thiết kế trải nghiệm game
+
+**Cảm xúc mục tiêu**: Tạo cảm giác hối hả và căng thẳng cho người chơi, thay vì yêu cầu họ cẩn thận hay thông minh.
+
+**Cơ chế cốt lõi (Core mechanic)**: Di chuyển và né tránh chướng ngại vật
+
+**Vòng lặp game (Game loop)**: Di chuyển từ điểm A đến điểm B
+
+## Kiến thức lập trình sẽ học được
+
+- Biến (Variables)
+    
+- Phương thức (Methods)
+    
+- Câu lệnh điều kiện (If statements)
+    
+- Va chạm (Collisions)
+    
+- Vùng kích hoạt (Trigger volumes)
+    
+- Input của người chơi (Player input)
+    
+
+## Kiến thức Unity cơ bản
+
+- Cách hoạt động của đối tượng game (Game objects)
+    
+- Tương tác với đối tượng game
+    
+- Prefabs
+    
+- Cinemachine
+    
+- Tags
+    
+- Components
+    
+- Thứ tự thực thi (Order of execution)
+    
+
+## Thử thách đầu tiên
+
+Giảng viên yêu cầu học viên đặt tên cho nhân vật của mình để tạo thêm cá tính cho game. Ví dụ: "Dodgy" - cái tên gợi nhớ đến việc phải né tránh trong game.
